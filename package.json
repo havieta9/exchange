@@ -1,13 +1,8 @@
 {
-<<<<<<< HEAD
   "name": "cybex-ex-2",
   "version": "1.4.2",
   "description": "Cybex2.0 Ex Frontend",
-=======
-  "name": "opex",
-  "version": "0.1.1",
   "homepage": "https://exchange-mu.vercel.app/",
->>>>>>> 0d33e3a820b57ae575c3f8770b73b3afc4309309
   "private": true,
   "scripts": {
     "dev": "nuxt",
