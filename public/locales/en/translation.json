@@ -1,0 +1,295 @@
+{
+  "title": "Opex",
+  "signIn":"Sign in",
+  "signOut":"Sing out",
+  "min": "Min",
+  "max": "Max",
+  "buy": "Buy",
+  "date": "Date",
+  "time": "Time",
+  "sell": "Sell",
+  "totalPrice": "Total Price",
+  "averagePrice": "Average Price",
+  "pricePerUnit": "Price Per Unit",
+  "volume": "Volume",
+  "totalVolume": "Total Volume",
+  "price": "Price",
+  "all": "All",
+  "orderType": "Order Type",
+  "status" : "Status",
+  "pleaseLogin" : "Please Login!",
+  "comingSoon" : "Coming Soon :)",
+  "nextStep": "Next Step",
+  "prevStep": "Prev Step",
+  "submit": "Submit",
+  "commission": "Commission",
+  "error": "Something wrong happened !",
+  "loading": "Loading....",
+  "currency": {
+    "IRT" : "IRT",
+    "Euro" : "Euro",
+    "USD" : "USD",
+    "BTC" : "BTC",
+    "ETH" : "ETH",
+    "USDT": "USDT",
+    "TBTC": "TBTC",
+    "TETH": "TETH",
+    "TUSDT": "TUSDT",
+    "BNB": "BNB",
+    "BUSD": "BUSD",
+    "DOGE": "DOGE",
+    "LTC": "LTC",
+    "BCH": "BCH",
+    "NLN": "NLN"
+  },
+  "ordersStatus": {
+    "live": "Live",
+    "reject": "Reject",
+    "done": "Done",
+    "cancel": "Canceled",
+    "doing": "Processing"
+  },
+  "orderTypes": {
+    "stopLimit" : "Stop Limit",
+    "stopMarket" : "Stop Market"
+  },
+  "pair": {
+    "BTC/IRT" : "BTC/IRT",
+    "ETH/IRT" : "ETH/IRT",
+    "ETH/BTC": "ETH/BTC",
+    "BTC/USDT": "BTC/USDT",
+    "TBTC/TUSDT": "TBTC/TUSDT",
+    "TETH/TUSDT": "TETH/TUSDT",
+    "LTC/BTC": "LTC/BTC",
+    "DOGE/BTC": "DOGE/BTC",
+    "BCH/BTC": "BCH/BTC",
+    "LTC/IRT": "LTC/IRT",
+    "LTC/USDT": "LTC/USDT",
+    "DOGE/IRT": "DOGE/IRT",
+    "BCH/IRT": "BCH/IRT",
+    "ETH/USDT": "ETH/USDT",
+    "BNB/IRT": "BNB/IRT",
+    "BNB/USDT": "BNB/USDT",
+    "BUSD/IRT": "BUSD/IRT",
+    "DOGE/USDT": "DOGE/USDT",
+    "BCH/USDT": "BCH/USDT",
+    "NLN/BTC": "NLN/BTC",
+    "NLN/USDT": "NLN/USDT"
+  },
+  "header": {
+    "lastPrice" : "Last Price",
+    "availableBalance" : "Available Balance"
+  },
+  "overview": {
+    "title": "Overview",
+    "change": "Change",
+    "volume": "Volume",
+    "lastDay": "24 Hour",
+    "lastWeek": "7 Week",
+    "lastMonth": "30 Day"
+  },
+  "wallet": {
+    "title": "Wallet"
+  },
+  "technical": {
+    "title": "Technical"
+  },
+  "messages": {
+    "title": "Messages"
+  },
+  "settings": {
+    "title": "Settings"
+  },
+  "orders": {
+    "title": "Order",
+    "minOrder":  "Minimum allowed order is {{min}} {{currency}}",
+    "maxOrder":  "Maximum allowed order is {{max}} {{currency}}",
+    "divisibility": "Divisibility !",
+    "availableAmount": "Available Amount",
+    "bestOffer": "Best Offer",
+    "stopLimit": "Stop Limit",
+    "stopPrice": "Stop Price",
+    "amount": "Amount",
+    "pricePerUnit": "Unit Price",
+    "marketBuyPrice": "Market Buy",
+    "marketSellPrice": "Market Sell",
+    "totalPrice": "Total Price",
+    "tradeFee": "Exchange Fee",
+    "getAmount": "Received Amount"
+  },
+  "LastTrades": {
+    "title": "Last Trades",
+    "date": "Date",
+    "time": "Time",
+    "volume": "Amount",
+    "price": "Price",
+    "totalPrice": "Total Price"
+  },
+  "orderBook": {
+    "title": "Order Book"
+  },
+  "myOrders": {
+    "title": "My Orders",
+    "orderId": "Order ID",
+    "tradeId": "Trade ID",
+    "stoppedPrice": "Stopped Price",
+    "donePercentage": "% done",
+    "tradedAmount": "Traded",
+    "avgTradedAmount": "Avg Traded Amount",
+    "tradedPrice": "Traded Price",
+    "aliveOrder": "Live",
+    "stoppedOrder": "Stopped",
+    "orderHistory": "History",
+    "stopOrderTime": "Stop Order Time",
+    "startOrderTime": "Start Order Time",
+    "orders": "Orders"
+  },
+  "Deposit": {
+    "title": "Deposit/Withdrawal",
+    "deposit": "Deposit",
+    "withdrawal": "Withdrawal",
+    "transfer": "Transfer"
+  },
+  "DepositTransactions": {
+    "title": "Deposit/Withdrawal Transactions",
+    "depositWithdrawal": "Deposit/Withdrawal",
+    "withdrawalSend": "Withdrawal/Send",
+    "transactionType": "Transaction Type",
+    "transactionId": "Transaction ID",
+    "blockchainTransactionId": "Transaction Hash",
+    "price": "Price",
+    "destination": "Sender/Recipient",
+    "details": "Details",
+    "inventory": "Account Balance"
+  },
+  "transactionType": {
+    "deposit": "Deposit",
+    "withdrawal": "Withdrawal",
+    "Received": "Received",
+    "send": "Send"
+  },
+  "OrdersTrades": {
+    "title": "Orders/Trades",
+    "aliveOrder": "Alive Order",
+    "stop": "Stop",
+    "cancelClose": "Canceled/Close",
+    "trades": "Trades",
+    "market": "Market",
+    "side": "Side",
+    "order": "Order",
+    "done": "Done",
+    "donePercentage": "Done %"
+  },
+
+
+
+  "MessagesSubMenu": {
+    "title": "Notifications",
+    "myMessages": "My Messages",
+    "news": "News"
+  },
+  "SettingsSubMenu": {
+    "title": "Settings",
+    "userProfile": "User Profile",
+    "security": "Security",
+    "personalization": "Personalization",
+    "authentication": "Authentication"
+  },
+
+  "UserAccountStatus": {
+    "title": "وضعیت حساب کاربری"
+  },
+  "PersonalProfile": {
+    "title": "Personal Profile",
+    "userLevel/fee": "سطح کاربری/کارمزدها",
+    "firstNameEn": "Firstname (English)",
+    "lastNameEn": "Lastname (English)",
+    "firstNameMain": "Firstname (Main Language)",
+    "lastNameMain": "Lastname (Main Language)",
+    "nationality": "Nationality",
+    "residence": "Residence",
+    "dateOfBirth": "Date Of Birth ( )",
+    "dateOfBirthAlt": "Date Of Birth ( )",
+    "nationalID": "National ID",
+    "passportNumber": "Passport Number",
+    "phoneNumber": "Phone Number",
+    "telephone": "Telephone",
+    "email": "Email",
+    "postalCode": "Postal Code",
+    "address": "Address",
+    "selectNationality": "Select your nationality",
+    "selectResidence": "Select your country of residence"
+  },
+
+  "LoginReports": {
+    "title": "Login Reports"
+  },
+  "ActiveSessions": {
+    "title": "Active Sessions"
+  },
+  "ChangePassword": {
+    "title": "Change Password"
+  },
+  "SetTwoStepVerification": {
+    "title": "Set Two Step Verification"
+  },
+  "HelpStep": {
+    "title": "Step 1 of 4: Help"
+  },
+  "PersonalProfileStep": {
+    "title": "Step 2 of 4: Enter Personal Information"
+  },
+  "SendPhotosStep": {
+    "title": "Step 3 of 4: Send Photos"
+  },
+  "SendToExpertStep": {
+    "title": "Step 4 of 4: Send To Expert"
+  },
+  "login": {
+    "title": "Login/Register",
+    "wrongPassword": "نام کاربری یا رمز عبور صحیح نمی باشد!",
+    "forgetPassword": "Forget Password",
+    "accountNotActive": "اکانت شما هنوز فعال نشده است",
+    "enter": "Enter",
+    "resetPassword": "Reset Password",
+    "inputError": "تعداد کاراکتر نام کاربری یا رمز ورود مجاز نیست.",
+    "loginError": "خطا در ارتباط با سرور",
+    "registerFinished": "ثبت نام با موفقیت انجام شد :)",
+    "forgetPasswordFinished": "درخواست بازیابی رمز عبور با موفقیت ارسال شد :)",
+    "registerFinishedGoToMail": "برای تکمیل ثبت نام به ایمیل ثبت شده مراجعه فرمایید.",
+    "registerFinishedSpamMail": "ایمیل دریافتی از آدرس for.demo.purpose.only@opex.dev ممکن است در بخش spam باشد.",
+    "register": "Register",
+    "wrongEmail": "ایمیل وارد شده معتبر نیست.",
+    "notFoundEmail": "ایمیل وارد شده یافت نشد.",
+    "emptyEmail": "ایمیل را وارد کنید.",
+    "emptyInput": "وارد کردن فیلد {{name}} الزامی است.",
+    "emptyCredentialError": "وارد کردن فیلد نام کاربری و رمز ورود الزامی است.",
+    "minInput": "{{name}} حداقل باید {{min}} کاراکتر باشد.",
+    "finishedWithError": "خطا در ایجاد کاربر جدید.",
+    "back": "Back"
+  },
+
+
+
+  "market": {
+    "title": "Market"
+  },
+  "footer" : {
+    "changeColor": "Change Color",
+    "aboutUs" : "About Us",
+    "contactUS" : "Contact Us",
+    "blog" : "Blog",
+    "guide": "Guide",
+    "rules": "Rules",
+    "api": "Api",
+    "addCoin": "Add Coin",
+    "demo": "Market Demo",
+    "errorReport": "Error Report",
+    "copyright": "© 2021 Opex All rights reserved"
+  },
+  "junk": {
+    "t": "T",
+    "billionT": "Billion T",
+    "vol": "Vol"
+  }
+}
